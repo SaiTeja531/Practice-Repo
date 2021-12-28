@@ -32,7 +32,6 @@ public class Java8Practice{
 		com.removeAll(map1.keySet());
 		System.out.println(com);
 		System.out.println("sakesh sadineni");
-		System.out.println("Mama mia");
 		
 
 	}
